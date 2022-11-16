@@ -1,0 +1,15 @@
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\bin\Debug\net6.0\ContainTask.exe
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\bin\Debug\net6.0\ContainTask.deps.json
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\bin\Debug\net6.0\ContainTask.runtimeconfig.json
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\bin\Debug\net6.0\ContainTask.dll
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\bin\Debug\net6.0\ContainTask.pdb
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ContainTask.csproj.AssemblyReference.cache
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ContainTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ContainTask.AssemblyInfoInputs.cache
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ContainTask.AssemblyInfo.cs
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ContainTask.csproj.CoreCompileInputs.cache
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ContainTask.dll
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\refint\ContainTask.dll
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ContainTask.pdb
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ContainTask.genruntimeconfig.cache
+C:\Users\Ilaha\Desktop\ContainTask\ContainTask\obj\Debug\net6.0\ref\ContainTask.dll
